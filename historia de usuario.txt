@@ -1,0 +1,9 @@
+nintendo:
+Me gustaría solicitar el desarrollo de una aplicación web que centralice todos mis productos. 
+La página debe ser visualmente atractiva, de modo que cualquier visitante se sienta cautivado por su diseño. Además, 
+es fundamental que la plataforma permita la adquisición de juegos, ropa y electrodomésticos de manera sencilla y accesible.
+Además, al realizar la compra de videojuegos, los usuarios deberán ingresar los datos de su tarjeta de crédito. Una vez completada la transacción, 
+se les proporcionará una clave que podrán utilizar en su consola para acceder al juego adquirido.
+En el caso de la compra de ropa, además de la tarjeta de crédito, se solicitarán datos adicionales como dirección, país y nombre del comprador. Este mismo procedimiento se aplicará a la adquisición de electrodomésticos.
+
+
